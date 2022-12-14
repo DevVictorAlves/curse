@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class Aritméticos {
+	
+	
+	public static void main(String[] args) {
+		
+		System.out.println(9 % (double) 2);
+		
+		
+	}
+
+}

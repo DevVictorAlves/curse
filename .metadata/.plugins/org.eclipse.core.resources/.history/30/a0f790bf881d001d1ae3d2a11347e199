@@ -1,0 +1,27 @@
+package fundamentos;
+
+public class DesafioOperadoresAritmeticos {
+
+	public static void main(String[] args) {
+		int a = 6* (3 + 2);
+		int quadrado1 = (int) Math.pow(a, 2);
+		int ab = 3 * 2 / a;
+		
+		int soma1 = a + ab;
+//
+		int equacao2 = (1 - 5) * (2 - 7);
+		int quadrado2 = (int) Math.pow(equacao2, 2);
+		int abc = equacao2 / 2;
+		int cubo1 = 10;
+		int cubo = (int) Math.pow(cubo1,3 );
+		
+		int soma2 =  quadrado2 + abc / cubo;
+		int soma3 = soma1 - soma2;
+		
+		System.out.println(soma3 );
+		
+		
+		
+		
+	}
+}

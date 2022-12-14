@@ -1,0 +1,25 @@
+package fundamentos;
+
+import java.util.Scanner;
+
+public class TtipoStringequals {
+	public static void main(String[] args) {
+		
+		System.out.println("2" == "2");
+		
+		String s = new String ("2");
+		System.out.println("2" == s);
+		System.out.println("2".equals(s));
+		
+		Scanner teclado = new Scanner(System.in);
+		String s1 = teclado.nextLine();
+		System.out.println("2" == s1.trim());
+		
+		System.out.println("\n2".equals(s1));
+	
+		teclado.close();
+		
+	
+	}
+
+}

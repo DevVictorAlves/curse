@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;composição.herança.Direção&apos; to &apos;direcao&apos;&#x0A;- Original project: &apos;CURSO PESADO PARCEIRO&apos;&#x0A;- Original element: &apos;composição.herança.Direção&apos;&#x0A;- Renamed element: &apos;composição.herança.direcao&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Direção&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;composição.herança{Direção.java[Direção" matchStrategy="1" name="direcao" qualified="false" references="true" similarDeclarations="false" stamp="1667594175045" textual="false" version="1.0"/>
+</session>
